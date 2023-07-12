@@ -31,4 +31,7 @@ npm install
 # start the application
 npm start
 
+```
+
 ## Deployed Link
+<a href="https://work-day-scheduler-gilt.vercel.app" target="_blank">Click Here </a>
